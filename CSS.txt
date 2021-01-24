@@ -18,3 +18,10 @@ font-style: normal;
 font-weight: 400;
 src: url(https://raw.githack.com/GeekzGamingz/OrythFonts/main/DsNasilnese.ttf) ;
 }
+
+@font-face{
+font-family: Angerthas;
+font-style: normal;
+font-weight: 400;
+src: url(https://raw.githack.com/GeekzGamingz/OrythFonts/main/AngerthasMoria.ttf) ;
+}
