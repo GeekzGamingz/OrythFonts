@@ -4,3 +4,17 @@ font-style: normal;
 font-weight: 400;
 src: url(https://raw.githack.com/GeekzGamingz/OrythFonts/main/LimeGloryCaps.ttf) ;
 }
+
+@font-face{
+font-family: Eorzean Fraktur;
+font-style: normal;
+font-weight: 400;
+src: url(https://raw.githack.com/GeekzGamingz/OrythFonts/main/EorzeanFraktur.ttf) ;
+}
+
+@font-face{
+font-family: DaNasilnese;
+font-style: normal;
+font-weight: 400;
+src: url(https://raw.githack.com/GeekzGamingz/OrythFonts/main/DsNasilnese.ttf) ;
+}
